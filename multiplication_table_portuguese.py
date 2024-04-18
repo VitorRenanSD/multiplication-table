@@ -1,5 +1,3 @@
-#Mostrar a tabuada para cada numero digitado pelo usuario, o programa ira parar quando o numero for negativo
-
 count = result = 0
 
 while True:
