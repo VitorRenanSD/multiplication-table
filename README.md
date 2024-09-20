@@ -1,1 +1,1 @@
-Just run this .py archive in your IDE and its all done! :)
+Just run this .py archive into your IDE and its all done :3c
