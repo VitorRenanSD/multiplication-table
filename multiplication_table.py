@@ -1,4 +1,6 @@
-number = int(input('Create a multiplication table to number: '))
+def multiplicationTable(num):
+    for i in range(1, 11):
+        print(f'{num} x {i:2} = {num * i}')
 
-for i in range(1, 11):
-    print(f'\033[1;33m {number} * {i:2} = {number * i:2} \033[m')
+chosenNumber = int(input('Create a multiplication table to number: '))
+multiplicationTable(chosenNumber)
